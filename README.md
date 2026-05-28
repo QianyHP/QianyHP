@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Haopeng Deng👋</h1>
   
   <p>
-    <strong>Researcher in Transportation Science & Engineering 🚗 | AI & Complex Systems 🧠</strong>
+    <strong>Transportation Science & Engineering 🚗 | AI & Complex Systems 🧠</strong>
   </p>
   
   <p>
@@ -17,9 +17,8 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm an Engineering Management undergrad at Guangzhou Maritime University (Class of 2026).
-- ✈️ Incoming Summer Researcher at MIT, focusing on mixed-autonomy traffic simulations and driving foundation models.
-- 🔬 Research Interests: Dynamic Traffic Assignment (DTA), Mixed-Traffic Systems, Tensor Completion for Data Imputation, and Reinforcement Learning in Traffic.
+- 🎓 I'm an Engineering Management undergrad at Guangzhou Maritime University, incoming Summer Researcher at MIT.
+- 🔬 Research Interests: Complex Systems, Mixed-Autonomy Traffic and Physics-Informed Learning.
 - 🏆 Proud recipient of the Best Poster Award at the 25th CICTP Conference & Meritorious Winner in ICM 2025.
 
 ### 🛠️ Tech Stack & Tools
