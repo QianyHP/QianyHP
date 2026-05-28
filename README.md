@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Haopeng Deng (Then Hope) 👋</h1>
+  <h1>Hi there, I'm Haopeng Deng👋</h1>
   
   <p>
     <strong>Researcher in Transportation Science & Engineering 🚗 | AI & Complex Systems 🧠</strong>
