@@ -34,7 +34,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QianyHP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="QianyHP's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QianyHP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache=123" />
 </p>
 
 <p align="center">
