@@ -7,8 +7,8 @@
   
   <p>
     <a href="https://qianyhp.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Personal_Page-blue?style=flat-square&logo=google-chrome"></a>
-    <a href="https://scholar.google.com.sg/citations?user=CLAjsQEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-informational?style=flat-square&logo=google-scholar"></a>
     <a href="mailto:qianyhp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-qianyhp@gmail.com-red?style=flat-square&logo=gmail"></a>
+    <a href="https://scholar.google.com.sg/citations?user=CLAjsQEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-informational?style=flat-square&logo=google-scholar"></a>
     <a href="https://orcid.org/0009-0004-2164-4320"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0004--2164--4320-green?style=flat-square&logo=orcid"></a>
   </p>
 </div>
@@ -33,10 +33,13 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QianyHP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="QianyHP's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QianyHP&theme=tokyonight&hide_border=true&background=0d1117" alt="QianyHP's GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QianyHP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="QianyHP's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QianyHP&theme=tokyonight&hide_border=true&background=0d1117" alt="QianyHP's GitHub Streak" />
+</p>
 
 <br/>
 <div align="center">
