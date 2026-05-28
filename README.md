@@ -30,17 +30,3 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop" />
 </p>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QianyHP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="QianyHP's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QianyHP&theme=tokyonight&hide_border=true&background=0d1117" alt="QianyHP's GitHub Streak" />
-</p>
-
-<br/>
-<div align="center">
-</div>
