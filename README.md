@@ -38,10 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QianyHP&theme=tokyonight&hide_border=true&background=0d1117" alt="QianyHP's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QianyHP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
-<br/>
-<div align="center">
-  <i>"Attribution Analysis of Digital Retrofitting Effectiveness in Urban Transportation Infrastructure."</i>
 </div>
