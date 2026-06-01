@@ -1,4 +1,7 @@
-<div align="center">
+<div align="left">
+  
+  <img src="profile.jpg" align="right" width="240" style="border-radius: 10px; margin-left: 25px; margin-bottom: 20px;">
+  
   <h1>Hi there, I'm Haopeng Deng👋</h1>
   
   <p>
@@ -11,12 +14,18 @@
     <a href="https://scholar.google.com.sg/citations?user=CLAjsQEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-informational?style=flat-square&logo=google-scholar"></a>
     <a href="https://orcid.org/0009-0004-2164-4320"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0004--2164--4320-green?style=flat-square&logo=orcid"></a>
   </p>
+
+  <br>
+
+  <h3>🚀 About Me</h3>
+  <ul>
+    <li>🎓 I'm an Engineering Management undergrad at Guangzhou Maritime University, incoming Summer Researcher at MIT.</li>
+    <li>🔬 Research Interests: Complex Systems, Mixed-Autonomy Traffic and Physics-Informed Learning.</li>
+    <li>🏆 Proud recipient of the Best Poster Award at the 25th CICTP Conference & Meritorious Winner in ICM 2025.</li>
+  </ul>
+
 </div>
 
+<div style="clear: both;"></div>
+
 ---
-
-### 🚀 About Me
-
-- 🎓 I'm an Engineering Management undergrad at Guangzhou Maritime University, incoming Summer Researcher at MIT.
-- 🔬 Research Interests: Complex Systems, Mixed-Autonomy Traffic and Physics-Informed Learning.
-- 🏆 Proud recipient of the Best Poster Award at the 25th CICTP Conference & Meritorious Winner in ICM 2025.
