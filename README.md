@@ -16,8 +16,8 @@
 
   <h3>🚀 About Me</h3>
   <ul>
-    <li>🎓 I'm an Engineering Management undergrad at Guangzhou Maritime University, incoming Summer Researcher at MIT.</li>
-    <li>🔬 Research Interests: Complex Systems, Mixed-Autonomy Traffic and Physics-Informed Learning.</li>
+    <li>🎓 I'm an Engineering Management final-year undergrad at Guangzhou Maritime University, incoming Summer Researcher at MIT.</li>
+    <li>🔬 Research Interests: Complex Systems, Mixed-Autonomy Traffic Dynamics and Physics-Informed Learning.</li>
     <li>🏆 Proud recipient of the Best Poster Award at the 25th CICTP Conference & Meritorious Winner in ICM 2025.</li>
   </ul>
 
