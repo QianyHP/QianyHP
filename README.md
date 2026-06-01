@@ -12,7 +12,6 @@
     <a href="https://qianyhp.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Personal_Page-blue?style=flat-square&logo=google-chrome"></a>
     <a href="mailto:qianyhp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-qianyhp@gmail.com-red?style=flat-square&logo=gmail"></a>
     <a href="https://scholar.google.com.sg/citations?user=CLAjsQEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-informational?style=flat-square&logo=google-scholar"></a>
-    <a href="https://orcid.org/0009-0004-2164-4320"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0004--2164--4320-green?style=flat-square&logo=orcid"></a>
   </p>
 
   <h3>🚀 About Me</h3>
