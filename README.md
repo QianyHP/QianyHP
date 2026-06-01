@@ -1,8 +1,8 @@
 <div align="left">
   
   <picture>
-    <source srcset="profile.jpg" media="(prefers-color-scheme: dark)">
-    <img src="profile.jpg" align="right" width="240" height="auto" style="border-radius:10px;" border="0">
+    <source srcset="profile.jpg">
+    <img src="profile.jpg" align="right" width="240" height="auto" border="0">
   </picture>
   
   <h1>Hi there, I'm Haopeng Deng👋</h1>
