@@ -15,8 +15,6 @@
     <a href="https://orcid.org/0009-0004-2164-4320"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0004--2164--4320-green?style=flat-square&logo=orcid"></a>
   </p>
 
-  <br>
-
   <h3>🚀 About Me</h3>
   <ul>
     <li>🎓 I'm an Engineering Management undergrad at Guangzhou Maritime University, incoming Summer Researcher at MIT.</li>
