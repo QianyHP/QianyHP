@@ -1,7 +1,7 @@
 <div align="left">
   
   <picture>
-    <source srcset="profile.jpg">
+    <source srcset="profile.webp">
     <img src="profile.jpg" align="right" width="240" height="auto" border="0">
   </picture>
   
