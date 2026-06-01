@@ -14,7 +14,6 @@
     <a href="https://scholar.google.com.sg/citations?user=CLAjsQEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-informational?style=flat-square&logo=google-scholar"></a>
   </p>
 
-  <h3>🚀 About Me</h3>
   <ul>
     <li>🎓 I'm an Engineering Management final-year undergrad at Guangzhou Maritime University, incoming Summer Researcher at MIT.</li>
     <li>🔬 Research Interests: Complex Systems, Mixed-Autonomy Traffic Dynamics and Physics-Informed Learning.</li>
