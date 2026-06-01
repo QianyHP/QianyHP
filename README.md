@@ -1,6 +1,6 @@
 <div align="left">
   
-  <img src="profile.jpg" align="right" width="240" style="border-radius: 10px; margin-left: 25px; margin-bottom: 20px;">
+  <img src="profile.jpg" align="left" width="240" style="border-radius: 10px; margin-right: 25px; margin-bottom: 20px;">
   
   <h1>Hi there, I'm Haopeng Deng👋</h1>
   
