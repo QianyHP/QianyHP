@@ -5,7 +5,7 @@
     <img src="profile.jpg" align="right" width="240" height="auto" border="0">
   </picture>
   
-  <h1>Hi there, I'm Haopeng Deng👋</h1>
+  <h1>Hi, I'm Haopeng Deng.</h1>
 
   <p>
     <a href="https://qianyhp.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Personal_Page-blue?style=flat-square&logo=google-chrome"></a>
@@ -16,10 +16,9 @@
 ---
 
   <ul>
-    <li>🎓 I'm an Engineering Management final-year undergrad at Guangzhou Maritime University, incoming Summer Researcher at MIT.</li>
-    <li>🔬 Research Interests: Transportation Science & Engineering, AI & Complex Systems, Mixed-Autonomy Traffic Dynamics and Physics-Informed Learning.</li>
-    <li>🏆 Proud recipient of the Best Poster Award at the 25th CICTP Conference & Meritorious Winner in ICM 2025.</li>
-    <li>☕ Always open to academic collaborations, research discussions, or a casual chat! Feel free to reach out.</li>
+    <li>I'm an Engineering Management undergrad at GMU, incoming Summer Researcher at MIT.</li>
+    <li>Transportation Science & Engineering, AI & Complex Systems, Mixed-Autonomy Traffic Dynamics and Physics-Informed Learning.</li>
+    <li>Always open to academic collaborations, discussions, or a casual chat! Feel free to reach out.</li>
   </ul>
 
 </div>
