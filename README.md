@@ -16,7 +16,7 @@
 ---
 
   <ul>
-    <li>I'm an Engineering Management undergrad at GMU, incoming Summer Researcher at MIT.</li>
+    <li>I'm an Engineering Management undergrad at GMU, Summer Researcher at MIT.</li>
     <li>Transportation Science, AI & Complex Systems and Mixed-Autonomy Traffic Dynamics.</li>
     <li>Always open to academic collaborations or discussions. Feel free to reach out.</li>
   </ul>
