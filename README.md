@@ -11,29 +11,31 @@
 
 ---
 
-<table border="0" style="border-collapse: collapse; border: none;">
+<table border="0" style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
-    <td width="65%" valign="middle" style="border: none; padding-right: 15px;">
+    <td width="70%" valign="middle" style="border: none; padding-right: 15px;">
       <ul>
         <li>I'm an Engineering Management undergrad at GMU, Summer Researcher at MIT.</li>
         <li>Transportation Science, AI & Complex Systems and Mixed-Autonomy Traffic Dynamics.</li>
         <li>Always open to academic collaborations or discussions. Feel free to reach out.</li>
       </ul>
+      
       <table border="0" width="100%" style="border-collapse: collapse; border: none; margin-top: 15px;">
         <tr style="border: none;">
-          <td width="50%" align="center" style="border: none; padding: 0 5px 0 0;">
-            <img src="interest_wordcloud.png" style="max-width: 100%; border-radius: 8px;" alt="Research Interests">
+          <td width="50%" align="center" style="border: none; padding: 0 8px 0 0;">
+            <img src="interest_wordcloud.png" width="100%" style="max-width: 260px; border-radius: 8px;" alt="Research Interests">
           </td>
-          <td width="50%" align="center" style="border: none; padding: 0 0 0 5px;">
-            <img src="skills_wordcloud.png" style="max-width: 100%; border-radius: 8px;" alt="Core Skills">
+          <td width="50%" align="center" style="border: none; padding: 0 0 0 8px;">
+            <img src="skills_wordcloud.png" width="100%" style="max-width: 260px; border-radius: 8px;" alt="Core Skills">
           </td>
         </tr>
       </table>
     </td>
-    <td width="35%" valign="middle" style="border: none; text-align: center;">
+    
+    <td width="30%" valign="middle" style="border: none; text-align: center;">
       <picture>
         <source srcset="profile.webp">
-        <img src="profile.jpg" style="max-width: 100%; min-width: 150px; height: auto; border-radius: 4px;">
+        <img src="profile.jpg" width="100%" style="max-width: 160px; height: auto; border-radius: 6px;">
       </picture>
     </td>
   </tr>
