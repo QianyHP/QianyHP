@@ -19,7 +19,6 @@
         <li>Transportation Science, AI & Complex Systems and Mixed-Autonomy Traffic Dynamics.</li>
         <li>Always open to academic collaborations or discussions. Feel free to reach out.</li>
       </ul>
-      
       <table border="0" width="100%" style="border-collapse: collapse; border: none; margin-top: 15px;">
         <tr style="border: none;">
           <td width="50%" align="center" style="border: none; padding: 0 8px 0 0;">
@@ -31,7 +30,6 @@
         </tr>
       </table>
     </td>
-    
     <td width="30%" valign="middle" style="border: none; text-align: center;">
       <picture>
         <source srcset="profile.webp">
