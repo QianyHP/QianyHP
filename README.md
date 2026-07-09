@@ -13,7 +13,7 @@
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none; padding-right: 15px;">
+    <td width="65%" valign="middle" style="border: none; padding-right: 15px;">
       <ul>
         <li>I'm an Engineering Management undergrad at GMU, Summer Researcher at MIT.</li>
         <li>Transportation Science, AI & Complex Systems and Mixed-Autonomy Traffic Dynamics.</li>
