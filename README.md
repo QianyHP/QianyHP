@@ -11,22 +11,20 @@
 
 ---
 
-<table border="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none; padding-right: 15px;">
-      <ul>
-        <li>I'm an Engineering Management undergrad at GMU, Summer Researcher at MIT.</li>
-        <li>Transportation Science, AI & Complex Systems and Mixed-Autonomy Traffic Dynamics.</li>
-        <li>Always open to academic collaborations or discussions. Feel free to reach out.</li>
-      </ul>
-    </td>
-    <td width="35%" valign="top" style="border: none; text-align: center;">
-      <picture>
-        <source srcset="profile.webp">
-        <img src="profile.jpg" style="max-width: 100%; min-width: 150px; height: auto; border-radius: 4px;">
-      </picture>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+  <div style="flex: 2; min-width: 280px;">
+    <ul>
+      <li>I'm an Engineering Management undergrad at GMU, Summer Researcher at MIT.</li>
+      <li>Transportation Science, AI & Complex Systems and Mixed-Autonomy Traffic Dynamics.</li>
+      <li>Always open to academic collaborations or discussions. Feel free to reach out.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 200px; max-width: 240px; text-align: center;">
+    <picture>
+      <source srcset="profile.webp">
+      <img src="profile.jpg" style="width: 100%; height: auto; border-radius: 4px;">
+    </picture>
+  </div>
+</div>
 
 </div>
