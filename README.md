@@ -15,9 +15,9 @@
   <tr style="border: none;">
     <td width="70%" valign="middle" style="border: none; padding-right: 15px;">
       <ul>
-        <li>I'm an Engineering Management undergrad at GMU, Summer Researcher at MIT.</li>
-        <li>Transportation Science, AI & Complex Systems and Mixed-Autonomy Traffic Dynamics.</li>
-        <li>Always open to academic collaborations or discussions. Feel free to reach out.</li>
+        <li>I study traffic dynamics and mixed-autonomy systems, especially how local interactions shape collective traffic behavior.</li>
+        <li>Here I share research code and experiments on traffic phase inference, calibration, and spatiotemporal data recovery.</li>
+        <li>For my publications, research experience, and current interests, visit my <a href="https://qianyhp.github.io/">academic homepage</a>. Always open to research discussions and collaborations.</li>
       </ul>
     </td>
     <td width="30%" valign="middle" style="border: none; text-align: center;">
